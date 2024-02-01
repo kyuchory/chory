@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chory/static/css/main.8cb314d4.css",
-    "main.js": "/chory/static/js/main.5d81529a.js",
+    "main.css": "/chory/static/css/main.0970cc5c.css",
+    "main.js": "/chory/static/js/main.30d6f0fc.js",
     "static/js/787.19c84e92.chunk.js": "/chory/static/js/787.19c84e92.chunk.js",
     "static/media/크리스마스투명2.png": "/chory/static/media/크리스마스투명2.f232825650e8beddbaad.png",
     "static/media/Maplestory Light.ttf": "/chory/static/media/Maplestory Light.9d9497585053c96c8082.ttf",
@@ -100,12 +100,12 @@
     "static/media/솔.webp": "/chory/static/media/솔.b6ee477bb38ebf408176.webp",
     "static/media/조각.webp": "/chory/static/media/조각.d55532239e6bbc88771b.webp",
     "index.html": "/chory/index.html",
-    "main.8cb314d4.css.map": "/chory/static/css/main.8cb314d4.css.map",
-    "main.5d81529a.js.map": "/chory/static/js/main.5d81529a.js.map",
+    "main.0970cc5c.css.map": "/chory/static/css/main.0970cc5c.css.map",
+    "main.30d6f0fc.js.map": "/chory/static/js/main.30d6f0fc.js.map",
     "787.19c84e92.chunk.js.map": "/chory/static/js/787.19c84e92.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cb314d4.css",
-    "static/js/main.5d81529a.js"
+    "static/css/main.0970cc5c.css",
+    "static/js/main.30d6f0fc.js"
   ]
 }
