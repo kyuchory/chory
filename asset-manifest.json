@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rucid.kr/static/css/main.3bfa51b1.css",
-    "main.js": "/rucid.kr/static/js/main.f158cd02.js",
+    "main.js": "/rucid.kr/static/js/main.a8bfae29.js",
     "static/js/787.19c84e92.chunk.js": "/rucid.kr/static/js/787.19c84e92.chunk.js",
     "static/media/크리스마스투명2.png": "/rucid.kr/static/media/크리스마스투명2.f232825650e8beddbaad.png",
     "static/media/Maplestory Light.ttf": "/rucid.kr/static/media/Maplestory Light.9d9497585053c96c8082.ttf",
@@ -100,11 +100,11 @@
     "static/media/조각.webp": "/rucid.kr/static/media/조각.d55532239e6bbc88771b.webp",
     "index.html": "/rucid.kr/index.html",
     "main.3bfa51b1.css.map": "/rucid.kr/static/css/main.3bfa51b1.css.map",
-    "main.f158cd02.js.map": "/rucid.kr/static/js/main.f158cd02.js.map",
+    "main.a8bfae29.js.map": "/rucid.kr/static/js/main.a8bfae29.js.map",
     "787.19c84e92.chunk.js.map": "/rucid.kr/static/js/787.19c84e92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3bfa51b1.css",
-    "static/js/main.f158cd02.js"
+    "static/js/main.a8bfae29.js"
   ]
 }
