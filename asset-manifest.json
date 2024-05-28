@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fcd0a53c.css",
-    "main.js": "/static/js/main.724222a9.js",
+    "main.css": "/static/css/main.22ff7ab4.css",
+    "main.js": "/static/js/main.650d0e2f.js",
     "static/js/787.19c84e92.chunk.js": "/static/js/787.19c84e92.chunk.js",
     "static/media/크리스마스투명2.png": "/static/media/크리스마스투명2.f232825650e8beddbaad.png",
     "static/media/Maplestory Light.ttf": "/static/media/Maplestory Light.9d9497585053c96c8082.ttf",
@@ -99,12 +99,12 @@
     "static/media/솔.webp": "/static/media/솔.b6ee477bb38ebf408176.webp",
     "static/media/조각.webp": "/static/media/조각.d55532239e6bbc88771b.webp",
     "index.html": "/index.html",
-    "main.fcd0a53c.css.map": "/static/css/main.fcd0a53c.css.map",
-    "main.724222a9.js.map": "/static/js/main.724222a9.js.map",
+    "main.22ff7ab4.css.map": "/static/css/main.22ff7ab4.css.map",
+    "main.650d0e2f.js.map": "/static/js/main.650d0e2f.js.map",
     "787.19c84e92.chunk.js.map": "/static/js/787.19c84e92.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcd0a53c.css",
-    "static/js/main.724222a9.js"
+    "static/css/main.22ff7ab4.css",
+    "static/js/main.650d0e2f.js"
   ]
 }
