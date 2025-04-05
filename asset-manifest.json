@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/chory/static/css/main.df1be416.css",
-    "main.js": "/chory/static/js/main.af9f7fc1.js",
+    "main.js": "/chory/static/js/main.bc2026f4.js",
     "static/js/787.19c84e92.chunk.js": "/chory/static/js/787.19c84e92.chunk.js",
     "static/media/크리스마스투명2.png": "/chory/static/media/크리스마스투명2.f232825650e8beddbaad.png",
     "static/media/Maplestory Light.ttf": "/chory/static/media/Maplestory Light.9d9497585053c96c8082.ttf",
@@ -100,11 +100,11 @@
     "static/media/조각.webp": "/chory/static/media/조각.d55532239e6bbc88771b.webp",
     "index.html": "/chory/index.html",
     "main.df1be416.css.map": "/chory/static/css/main.df1be416.css.map",
-    "main.af9f7fc1.js.map": "/chory/static/js/main.af9f7fc1.js.map",
+    "main.bc2026f4.js.map": "/chory/static/js/main.bc2026f4.js.map",
     "787.19c84e92.chunk.js.map": "/chory/static/js/787.19c84e92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df1be416.css",
-    "static/js/main.af9f7fc1.js"
+    "static/js/main.bc2026f4.js"
   ]
 }
